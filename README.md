@@ -38,7 +38,7 @@ O programa apresenta a área do círculo no formato:
 
 
 
-\*\*A = resultado\*\*
+**A = resultado**
 
 
 
