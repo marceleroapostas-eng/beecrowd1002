@@ -1,8 +1,8 @@
-\# Beecrowd 1002 - Área do Círculo
+# Beecrowd 1002 - Área do Círculo
 
 
 
-\## Descrição
+## Descrição
 
 
 
@@ -10,19 +10,19 @@ Este programa resolve o problema 1002 do Beecrowd.
 
 
 
-\## Tecnologias utilizadas
+## Tecnologias utilizadas
 
 
 
-\- Java
+- Java
 
-\- NetBeans
+- NetBeans
 
-\- Maven
+- Maven
 
 
 
-\## Entrada
+## Entrada
 
 
 
@@ -30,7 +30,7 @@ A entrada contém um valor de ponto flutuante que representa o raio do círculo.
 
 
 
-\## Saída
+## Saída
 
 
 
@@ -42,7 +42,7 @@ O programa apresenta a área do círculo no formato:
 
 
 
-\## Autor
+## Autor
 
 
 
